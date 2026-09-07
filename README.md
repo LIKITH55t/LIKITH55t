@@ -25,21 +25,18 @@
 
 ---
 
-## 📊 GitHub Activity
+📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LIKITH55t&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=LIKITH55t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIKITH55t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-## 📈 Contribution Graph
+<img src="https://streak-stats.demolab.com?user=LIKITH55t&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LIKITH55t&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIKITH55t&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
----
+</div>
 
 ## 🧠 Currently
 
