@@ -1,4 +1,4 @@
-# 💫 About Me: LIKITH KUMAR THADAKAMALLA
+# About Me: LIKITH KUMAR THADAKAMALLA
  
 Aspiring AI & ML Engineer passionate about Data Structures, Problem Solving, and intelligent systems.<br>
 Currently pursuing B.Tech in Computer Science (Data Science) at GRIET, Hyderabad (CGPA: 9.81/10).<br>
@@ -21,8 +21,6 @@ Always learning, always building — one commit at a time.
 - **KYC Verification System (AI-Powered)** — Python, FastAPI, EasyOCR, MongoDB — scalable backend with CNN/GNN-based fraud detection for document tampering and fraudulent identity networks.
 ## 🏆 Achievements
 - Solved 300+ LeetCode problems
-- 3rd Round — Flipkart GRiD 8.0 (AI/ML Track)
-- 3rd Round — Adobe University Hackathon
 - Top 3, FinTech Domain — NHETIS (in association with AWS India Tech Alliance & IBM SkillsBuild)
 - Campus Ambassador, GeeksforGeeks (GRIET) 2025–2026
 - Data Analyst Intern, Bluestock Fintech 2026
