@@ -14,16 +14,6 @@ Always learning, always building — one commit at a time.
  
 ## 🧠 LeetCode Stats:
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=LIKITH_55t&theme=dark)](https://leetcode.com/u/LIKITH_55t/)
- 
-## 🚀 Featured Projects
-- **ai4impact Hackathon Platform** — Next.js, Firebase/Firestore, Node.js — a large-scale hackathon management system with a concurrent FCFS selection engine and live countdown timer.
-- **Veriflow (AI Evaluation & Bias Detection Framework)** — Python, NLP — automated pipeline to evaluate AI models for bias and factual consistency using multi-layered statistical engines.
-- **KYC Verification System (AI-Powered)** — Python, FastAPI, EasyOCR, MongoDB — scalable backend with CNN/GNN-based fraud detection for document tampering and fraudulent identity networks.
-## 🏆 Achievements
-- Solved 300+ LeetCode problems
-- Top 3, FinTech Domain — NHETIS (in association with AWS India Tech Alliance & IBM SkillsBuild)
-- Campus Ambassador, GeeksforGeeks (GRIET) 2025–2026
-- Data Analyst Intern, Bluestock Fintech 2026
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
