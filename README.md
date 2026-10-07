@@ -1,36 +1,281 @@
-# About Me: LIKITH KUMAR THADAKAMALLA
- 
-Aspiring AI & ML Engineer passionate about Data Structures, Problem Solving, and intelligent systems.<br>
-Currently pursuing B.Tech in Computer Science (Data Science) at GRIET, Hyderabad (CGPA: 9.81/10).<br>
-I love building scalable, real-world systems — from AI-powered fraud detection engines to hackathon platforms handling massive traffic spikes.<br>
-Driven by curiosity and a deep belief that consistent effort compounds into expertise.<br>
-Always learning, always building — one commit at a time.
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likith-kumar-thadakamalla-5a498a327/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/LIKITH_55t/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LIKITH55t)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thadakamallalikithkumar@gmail.com)
- 
-## 🧠 LeetCode Stats:
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=LIKITH_55t&theme=dark)](https://leetcode.com/u/LIKITH_55t/)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LIKITH55t&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LIKITH55t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LIKITH55t&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
+<div align="center">
+
+# 👋 Hi, I'm Likith Kumar Thadakamalla
+
+### 🤖 AI/ML Engineer Aspirant • Data Science Enthusiast • Full-Stack Developer
+
+<p>
+  <a href="https://www.linkedin.com/in/likith-kumar-naidu-5a498a327/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/LIKITH55t">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:thadakamallalikithkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 ---
-[![](https://komarev.com/ghpvc/?username=LIKITH55t&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+🎓 3rd-year **B.Tech Computer Science (Data Science)** student at GRIET with a **9.81 CGPA**, ranked **#1 in my          department**
+
+🤖 Aspiring **AI/ML Engineer** who builds end-to-end intelligent systems, from data and models to full-stack             applications
+
+💻 **Full-stack developer** shipping real-world products with **Next.js, Node.js and FastAPI**
+
+🧠 Strong **Data Structures & Algorithms** foundation with **350+ LeetCode problems solved**, and actively solving on **CodeChef, Codeforces and HackerRank**
+
+🔥 Built practical solutions across **AI, logistics, business analytics and scalable platforms**
+
+🚀 Seeking **AI/ML, Data Science and SDE opportunities** where I can build scalable, user-focused software that creates real impact
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🎯 AI-Powered Personalized Content Curation
+
+> AI-driven system that learns user interests and curates personalized
+> content recommendations, helping users discover relevant material faster.
+
+**Tech:** Python • AI/ML • Recommendation Systems
+
+<p>
+<a href="https://github.com/LIKITH55t/AI-Powered-Personalized-Content-Curation">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🏆 AI4Impact Hackathon Platform
+
+> Scalable hackathon platform for managing participants, teams and
+> submissions, built to handle massive traffic spikes during events.
+
+**Tech:** Next.js • Node.js • Firebase • Full Stack
+
+<p>
+<a href="https://github.com/LIKITH55t/ai4impact-Hackathon-Platform-">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🚚 RelayAI — Intelligent Shipment Recovery
+
+> Intelligent shipment recovery platform that detects misplaced shipments,
+> searches active transportation routes, evaluates recovery strategies,
+> and visualizes recovery plans through an interactive dashboard.
+
+**Tech:** TypeScript • React • FastAPI • Optimization • Data Visualization
+
+<p>
+<a href="https://github.com/ramesh-analytics-dev/RelayAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 💰 Mutual Fund Project
+
+> Mutual fund analysis tool that helps users explore fund performance
+> and make data-driven investment decisions.
+
+**Tech:** Python • Data Analysis • Machine Learning
+
+<p>
+<a href="https://github.com/LIKITH55t/MutualFundProject">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 📱 AI-Powered Mobile YouTube Content Curation App
+
+> Mobile app that uses AI to filter and curate YouTube content based on
+> user preferences, delivering a focused and personalized viewing experience.
+
+**Tech:** Mobile App • AI/ML • YouTube API
+
+<p>
+<a href="https://github.com/LIKITH55t/AI-powered-mobile-YouTube-content-curation-app">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 📊 Digital Behaviour Analytical System
+
+> Analytics system that tracks and analyzes digital usage patterns to
+> surface behavioral insights through data-driven visualizations.
+
+**Tech:** Python • Data Analytics • Visualization
+
+<p>
+<a href="https://github.com/LIKITH55t/Digital_Behaviour_Analytical_System">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🧠 DSA & Problem Solving
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/350%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CodeChef%20%7C%20Codeforces%20%7C%20HackerRank-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Data%20Structures-%26%20Algorithms-00599C?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+### Core Topics
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues`
+
+`Trees` `Graphs` `Hashing` `Recursion` `Dynamic Programming`
+
+`Greedy` `Binary Search` `Sorting`
+
+---
+
+## 🏆 Achievements & Certifications
+
+🏅 **Ranked #1 in Department at GRIET — 9.81/10 CGPA in B.Tech CSE (Data Science)**
+
+🎯 **Perfect 10/10 SGPA (Year 2, Semester 2)** — top marks in Operating Systems, Full-Stack Web Development, Computer Organization, Design & Analysis of Algorithms and Statistics
+
+🤖 **Google AI/ML Virtual Internship** — hands-on experience building machine learning solutions
+
+⚙️ **DevOps & Cloud Automation Virtual Internship** — CI/CD, automation and cloud deployment workflows
+
+🧠 **AWS Academy Graduate — Generative AI Foundations**
+
+💬 **AWS Academy Graduate — Machine Learning for Natural Language Processing**
+
+📈 **AWS Academy Graduate — Machine Learning Foundations**
+
+☁️ **AWS Cloud Foundations & Cloud Architecting**
+
+🐳 **Red Hat OpenShift Administration I: Operating a Production Cluster (DO180) — v4.18**
+
+🗄️ **Oracle Database Academy — Database Programming with SQL**
+
+☕ **NPTEL Programming in Java — Elite Gold (Top Tier, 94%)**
+
+🐧 **Red Hat Linux Fundamentals**
+
+🔐 **Cisco Networking & Cybersecurity Courses**
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/System%20Design-181717?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LIKITH55t&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/likith-kumar-naidu-5a498a327/?isSelfProfile=true">
+<img src="https://img.shields.io/badge/LinkedIn-Likith%20Kumar%20Thadakamalla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:thadakamallalikithkumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/LIKITH55t">
+<img src="https://img.shields.io/badge/GitHub-LIKITH55t-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Solve. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>
